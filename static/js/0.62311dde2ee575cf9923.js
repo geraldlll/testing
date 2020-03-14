@@ -1,2 +1,1 @@
 (window.webpackJsonp=window.webpackJsonp||[]).push([[0],{35:function(t,n,e){"use strict";e.r(n);var i={},s=e(0),l=Object(s.a)(i,(function(){var t=this.$createElement;return(this._self._c||t)("div",{staticStyle:{padding:"10px"}},[this._v("\n\t欢迎使用系统\n")])}),[],!1,null,null,null);n.default=l.exports}}]);
-//# sourceMappingURL=0.62311dde2ee575cf9923.js.map
