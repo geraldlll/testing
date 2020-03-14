@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{122:function(t,e,n){"use strict";n.r(e);var s={data:()=>({}),beforeCreate(){},computed:{},methods:{},components:{}},a=n(0),o=Object(a.a)(s,(function(){var t=this.$createElement;return(this._self._c||t)("div",{staticStyle:{padding:"10px"}},[this._v("\n\t市场晴雨表页面\n")])}),[],!1,null,null,null);e.default=o.exports}}]);
+//# sourceMappingURL=10.5c9e5ab9302074c0bcb1.js.map
